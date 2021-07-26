@@ -1,0 +1,17 @@
+#Blue > p:nth-child(even) {
+  font-weight: bold;
+  color: blue;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: pink;
+}
+
+/* Red{
+    font-weight: lighter;
+    color: red;
+} */
