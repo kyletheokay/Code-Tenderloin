@@ -1,0 +1,30 @@
+/* p::first-line{
+    font-weight: bold;
+    font-size: 150%;
+    color: blue;
+} */
+/* 
+h1 {
+    color: dodgerblue;
+}
+
+#apple{
+color: red;
+}
+
+.Banana{
+    color: rgb(107, 107,0);
+} */
+/* 
+p {
+    color:blue;
+} */
+
+.box {
+  width: 600px;
+  height: 200px;
+  background-color: rgba(255, 8, 0, 1);
+  border: 10px dotted black;
+  border-top: 10px solid green;
+  border-radius: 5%;
+}
