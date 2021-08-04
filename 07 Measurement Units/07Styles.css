@@ -20,3 +20,10 @@
   /* padding-top: 5%; */
   flex-grow: 2;
 }
+
+@media print {
+    body{
+        font-size: 12pt;
+        
+    }
+}
