@@ -1,0 +1,9 @@
+.container {
+  height: 100px;
+  width: 100px;
+  background-color: gold;
+  padding: 10px;
+  border: 10px solid salmon;
+  margin: 10px;
+  box-sizing: content-box;
+}

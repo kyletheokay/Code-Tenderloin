@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  border-bottom: 1px solid gray;
+  height: 90vh;
+}
+
+.box {
+  font-size: 30px;
+  height: 5em;
+  width: 5em;
+  margin: 0.5%;
+  padding: 1%;
+  background-color: gold;
+}
+
+.box-one {
+  /* padding-top: 5%; */
+  flex-grow: 2;
+}
